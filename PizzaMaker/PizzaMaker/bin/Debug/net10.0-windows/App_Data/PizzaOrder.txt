@@ -1,0 +1,11 @@
+Name: 
+Ingredients: Pepperoni, Pineapple, Sausage
+Strange Add Ons: Artichoke Hearts, Eggs
+Crust: Thin Crust
+Sauce: 100
+Cheese: 100
+Delivery Time: 7/19/2026 7:15:23 PM
+Pizza Box Color: Color [White]
+Price: 17.50
+
+
